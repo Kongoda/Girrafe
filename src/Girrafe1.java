@@ -31,7 +31,7 @@ public class Girrafe1 {
 		System.out.println("The total age of the three girrafes is " + sum);
 		System.out.println("The difference age of the three girrafes is " + difference);
 		System.out.println("Age1 divide by age2 " + divide);
-		System.out.println("age1*age2*age3 " + multiply);
+		System.out.println("age1*age2*age3*age4 " + multiply);
 		
 		
 		
